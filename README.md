@@ -83,6 +83,20 @@ The IDE design includes live cursors and selections, following a teammate's view
 
 A future Code Together feature would let an AI teammate join as a distinct participant with its own chat identity and presence. The planned modes are Off, On Request, Selective, and Active. Selective mode uses local event filtering to limit model calls. Permissions and usage budgets control what the teammate can access and how often it can run.
 
+<details>
+<summary>View the AI draw-to-code concept</summary>
+
+![Concept diagram showing an AI teammate using developer annotations in a scene and code editor](docs/images/ai-draw-to-code.webp)
+
+</details>
+
 ---
 
 *Game-Style Multiplayer is a separate, upcoming extension for the Game-Style Editor, planned for the Unity Asset Store. It will use Shared Perspective to join the same sessions and will be distributed through the store.*
+
+<details>
+<summary>View the Game-Style Multiplayer concept</summary>
+
+![Concept diagram showing shared placement and building with multiple developers in Game-Style Multiplayer](docs/images/game-style-multiplayer.webp)
+
+</details>
